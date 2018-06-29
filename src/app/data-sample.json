@@ -1,0 +1,3689 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2018 The New York Times Company. All Rights Reserved.",
+  "section": "home",
+  "last_updated": "2018-06-28T20:47:15-04:00",
+  "num_results": 47,
+  "results": [
+    {
+      "section": "Briefing",
+      "subsection": "",
+      "title": "Maryland, Supreme Court, Russia: Your Thursday Evening Briefing",
+      "abstract": "Here’s what you need to know at the end of the day.",
+      "url": "https://www.nytimes.com/2018/06/28/briefing/maryland-supreme-court-russia.html",
+      "byline": "By JOUMANA KHATIB and MARCUS PAYADUE",
+      "item_type": "Article",
+      "updated_date": "2018-06-28T19:15:51-04:00",
+      "created_date": "2018-06-28T18:06:22-04:00",
+      "published_date": "2018-06-28T18:06:22-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/06/28/briefing/28pmBriefing-core-container/28pmBriefing-core-container-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/28/briefing/28pmBriefing-core-container/28pmBriefing-core-container-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/28/briefing/28pmBriefing-core-container/28pmBriefing-core-container-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/28/briefing/28pmBriefing-core-container/28pmBriefing-core-container-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/28/briefing/28pmBriefing-core-container/28pmBriefing-core-container-superJumbo-v2.jpg",
+          "format": "superJumbo",
+          "height": 188,
+          "width": 624,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/2KyngB6"
+    },
+    {
+      "section": "Briefing",
+      "subsection": "",
+      "title": "Maryland, Amazon, World Cup: Your Friday Briefing",
+      "abstract": "Here’s what you need to know to start your day.",
+      "url": "https://www.nytimes.com/2018/06/28/briefing/putin-amazon-world-cup.html",
+      "byline": "By INYOUNG KANG and CHARLES McDERMID",
+      "item_type": "Article",
+      "updated_date": "2018-06-28T17:10:03-04:00",
+      "created_date": "2018-06-28T16:10:40-04:00",
+      "published_date": "2018-06-28T16:10:40-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/briefing/062918briefing-asia-promo/062918briefing-asia-promo-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/briefing/062918briefing-asia-promo/062918briefing-asia-promo-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/briefing/062918briefing-asia-promo/29briefing-asia-slide-OLN8-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/briefing/062918briefing-asia-promo/062918briefing-asia-promo-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/briefing/062918briefing-asia-promo/062918briefing-asia-promo-superJumbo-v4.jpg",
+          "format": "superJumbo",
+          "height": 188,
+          "width": 624,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/2Ksjj0R"
+    },
+    {
+      "section": "U.S.",
+      "subsection": "Politics",
+      "title": "Political War Over Replacing Kennedy on Supreme Court Is Underway",
+      "abstract": "Democrats and liberal advocacy organizations face enormous challenges if they hope to prevent President Trump from installing a conservative justice.",
+      "url": "https://www.nytimes.com/2018/06/28/us/politics/trump-supreme-court-kennedy.html",
+      "byline": "By MICHAEL D. SHEAR and THOMAS KAPLAN",
+      "item_type": "Article",
+      "updated_date": "2018-06-28T20:02:27-04:00",
+      "created_date": "2018-06-28T11:40:53-04:00",
+      "published_date": "2018-06-28T11:40:53-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "United States Politics and Government",
+        "Midterm Elections (2018)"
+      ],
+      "org_facet": [
+        "Supreme Court (US)"
+      ],
+      "per_facet": [
+        "Kaine, Timothy M",
+        "Kennedy, Anthony M",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/us/29dc-court-alpha/29dc-court-alpha-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Supreme Court building in Washington. A battle for the future of the court is underway in the wake of Justice Anthony M. Kennedy’s announcement Wednesday that he will retire.",
+          "copyright": "Erin Schaff for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/us/29dc-court-alpha/29dc-court-alpha-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Supreme Court building in Washington. A battle for the future of the court is underway in the wake of Justice Anthony M. Kennedy’s announcement Wednesday that he will retire.",
+          "copyright": "Erin Schaff for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/us/29dc-court-alpha/29dc-court-alpha-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Supreme Court building in Washington. A battle for the future of the court is underway in the wake of Justice Anthony M. Kennedy’s announcement Wednesday that he will retire.",
+          "copyright": "Erin Schaff for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/us/29dc-court-alpha/29dc-court-alpha-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Supreme Court building in Washington. A battle for the future of the court is underway in the wake of Justice Anthony M. Kennedy’s announcement Wednesday that he will retire.",
+          "copyright": "Erin Schaff for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/us/29dc-court-alpha/29dc-court-alpha-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Supreme Court building in Washington. A battle for the future of the court is underway in the wake of Justice Anthony M. Kennedy’s announcement Wednesday that he will retire.",
+          "copyright": "Erin Schaff for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2lH10du"
+    },
+    {
+      "section": "U.S.",
+      "subsection": "",
+      "title": "Elated v. Scared: Americans Are Divided on Justice Kennedy’s Retirement",
+      "abstract": "For many conservatives, the chance to replace the centrist justice amounts to a kind of judicial grand prize. For liberals, the departure was almost too much to bear.",
+      "url": "https://www.nytimes.com/2018/06/28/us/democrats-republicans-anthony-kennedy.html",
+      "byline": "By RICHARD FAUSSET, FARAH STOCKMAN and JOSE A. DEL REAL",
+      "item_type": "Article",
+      "updated_date": "2018-06-28T17:28:07-04:00",
+      "created_date": "2018-06-28T10:05:22-04:00",
+      "published_date": "2018-06-28T10:05:22-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Appointments and Executive Changes",
+        "Roe v Wade (Supreme Court Decision)",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Supreme Court (US)"
+      ],
+      "per_facet": [
+        "Kennedy, Anthony M"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/us/29peoplecourt-01/merlin_139791045_ea8b7658-b317-45b6-bd79-569cf20fb15d-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Justice Anthony M. Kennedy, who is retiring, occupied a spot in the middle of the Supreme Court’s ideological spectrum, often providing the deciding vote in closely divided cases.",
+          "copyright": "Erin Schaff for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/us/29peoplecourt-01/merlin_139791045_ea8b7658-b317-45b6-bd79-569cf20fb15d-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Justice Anthony M. Kennedy, who is retiring, occupied a spot in the middle of the Supreme Court’s ideological spectrum, often providing the deciding vote in closely divided cases.",
+          "copyright": "Erin Schaff for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/us/29peoplecourt-01/merlin_139791045_ea8b7658-b317-45b6-bd79-569cf20fb15d-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Justice Anthony M. Kennedy, who is retiring, occupied a spot in the middle of the Supreme Court’s ideological spectrum, often providing the deciding vote in closely divided cases.",
+          "copyright": "Erin Schaff for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/us/29peoplecourt-01/merlin_139791045_ea8b7658-b317-45b6-bd79-569cf20fb15d-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Justice Anthony M. Kennedy, who is retiring, occupied a spot in the middle of the Supreme Court’s ideological spectrum, often providing the deciding vote in closely divided cases.",
+          "copyright": "Erin Schaff for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/us/29peoplecourt-01/merlin_139791045_ea8b7658-b317-45b6-bd79-569cf20fb15d-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Justice Anthony M. Kennedy, who is retiring, occupied a spot in the middle of the Supreme Court’s ideological spectrum, often providing the deciding vote in closely divided cases.",
+          "copyright": "Erin Schaff for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2My45If"
+    },
+    {
+      "section": "U.S.",
+      "subsection": "",
+      "title": "For Survivors of Japanese Internment Camps, Court’s Korematsu Ruling Is ‘Bittersweet’",
+      "abstract": "Japanese-Americans who lived through internment camps in the 1940s see parallels in ruling that upheld President Trump’s travel ban.",
+      "url": "https://www.nytimes.com/2018/06/28/us/korematsu-japanese-internment-camps-supreme-court-ruling.html",
+      "byline": "By JENNIFER MEDINA",
+      "item_type": "Article",
+      "updated_date": "2018-06-28T18:29:44-04:00",
+      "created_date": "2018-06-28T12:20:54-04:00",
+      "published_date": "2018-06-28T12:20:54-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Immigration and Emigration",
+        "Executive Orders and Memorandums",
+        "Decisions and Verdicts",
+        "Korematsu v United States (Supreme Court Decision)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Korematsu, Fred"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/us/29korematsu-01/29korematsu-01-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The actor George Takei was 5 years old when he was sent with his family to an interment camp in Arkansas during World War II.",
+          "copyright": "Jenna Schoenefeld for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/us/29korematsu-01/29korematsu-01-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The actor George Takei was 5 years old when he was sent with his family to an interment camp in Arkansas during World War II.",
+          "copyright": "Jenna Schoenefeld for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/us/29korematsu-01/29korematsu-01-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The actor George Takei was 5 years old when he was sent with his family to an interment camp in Arkansas during World War II.",
+          "copyright": "Jenna Schoenefeld for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/us/29korematsu-01/merlin_140405835_f2ab4b8d-c608-419e-9ec4-03b905e4a93c-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The actor George Takei was 5 years old when he was sent with his family to an interment camp in Arkansas during World War II.",
+          "copyright": "Jenna Schoenefeld for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/us/29korematsu-01/merlin_140405835_f2ab4b8d-c608-419e-9ec4-03b905e4a93c-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The actor George Takei was 5 years old when he was sent with his family to an interment camp in Arkansas during World War II.",
+          "copyright": "Jenna Schoenefeld for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2N6PB3l"
+    },
+    {
+      "section": "U.S.",
+      "subsection": "",
+      "title": "5 People Dead in Shooting at Maryland’s Capital Gazette Newsroom",
+      "abstract": "Several others were gravely injured, the authorities said. The suspected gunman is in custody.",
+      "url": "https://www.nytimes.com/2018/06/28/us/capital-gazette-annapolis-shooting.html",
+      "byline": "By SABRINA TAVERNISE, AMY HARMON and MAYA SALAM",
+      "item_type": "Article",
+      "updated_date": "2018-06-28T20:40:42-04:00",
+      "created_date": "2018-06-28T15:37:44-04:00",
+      "published_date": "2018-06-28T15:37:44-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Newspapers"
+      ],
+      "org_facet": [
+        "Capitol Gazette"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Annapolis (Md)"
+      ],
+      "multimedia": [],
+      "short_url": "https://nyti.ms/2IxVR0p"
+    },
+    {
+      "section": "World",
+      "subsection": "Americas",
+      "title": "What Explains U.S. Mass Shootings? International Comparisons Suggest an Answer",
+      "abstract": "Americans advance a lot of theories for why they have so many more gun deaths than other countries do. The answer is lying in plain sight.",
+      "url": "https://www.nytimes.com/2017/11/07/world/americas/mass-shootings-us-international.html",
+      "byline": "By MAX FISHER and JOSH KELLER",
+      "item_type": "Article",
+      "updated_date": "2017-11-09T17:15:09-05:00",
+      "created_date": "2017-11-07T05:05:58-05:00",
+      "published_date": "2017-11-07T05:05:58-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Gun Control",
+        "Murders, Attempted Murders and Homicides",
+        "School Shootings and Armed Attacks",
+        "Sutherland Springs, Tex, Shooting (2017)",
+        "vis-multimedia"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "United States"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2017/11/07/world/interpreter-guns-image/interpreter-guns-image-thumbStandard.png",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/11/07/world/interpreter-guns-image/interpreter-guns-image-thumbLarge.png",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/11/07/world/interpreter-guns-image/interpreter-guns-image-articleInline.png",
+          "format": "Normal",
+          "height": 135,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/11/07/world/interpreter-guns-image/interpreter-guns-image-mediumThreeByTwo210.png",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/11/07/world/interpreter-guns-image/interpreter-guns-image-superJumbo.png",
+          "format": "superJumbo",
+          "height": 1418,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/2hODjP5"
+    },
+    {
+      "section": "World",
+      "subsection": "Europe",
+      "title": "Helsinki Summit Meeting Is Set for Trump and Putin",
+      "abstract": "President Trump will meet President Vladimir V. Putin of Russia in Finland on July 16, a politically delicate time with the midterm elections approaching.",
+      "url": "https://www.nytimes.com/2018/06/28/world/europe/trump-putin-helsinki-meeting.html",
+      "byline": "By ANDREW E. KRAMER and EILEEN SULLIVAN",
+      "item_type": "Article",
+      "updated_date": "2018-06-28T12:54:14-04:00",
+      "created_date": "2018-06-28T08:22:57-04:00",
+      "published_date": "2018-06-28T08:22:57-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "United States International Relations",
+        "Russian Interference in 2016 US Elections and Ties to Trump Associates",
+        "United States Politics and Government",
+        "Midterm Elections (2018)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Putin, Vladimir V",
+        "Trump, Donald J",
+        "Bolton, John R"
+      ],
+      "geo_facet": [
+        "Helsinki (Finland)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/world/29Talks/29Talks-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump and President Vladimir V. Putin met on the sidelines of a Group of 20 meeting in Germany in 2017.",
+          "copyright": "Stephen Crowley/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/world/29Talks/29Talks-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump and President Vladimir V. Putin met on the sidelines of a Group of 20 meeting in Germany in 2017.",
+          "copyright": "Stephen Crowley/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/world/29Talks/merlin_139206909_80fb384e-9762-4fac-8d33-7eb1f6b61e56-articleInline.jpg",
+          "format": "Normal",
+          "height": 121,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump and President Vladimir V. Putin met on the sidelines of a Group of 20 meeting in Germany in 2017.",
+          "copyright": "Stephen Crowley/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/world/29Talks/29Talks-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump and President Vladimir V. Putin met on the sidelines of a Group of 20 meeting in Germany in 2017.",
+          "copyright": "Stephen Crowley/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/world/29Talks/merlin_139206909_80fb384e-9762-4fac-8d33-7eb1f6b61e56-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1300,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump and President Vladimir V. Putin met on the sidelines of a Group of 20 meeting in Germany in 2017.",
+          "copyright": "Stephen Crowley/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2N7Ce35"
+    },
+    {
+      "section": "U.S.",
+      "subsection": "Politics",
+      "title": "House G.O.P. Breaks Into Open Warfare With Rosenstein, Demanding Files",
+      "abstract": "As Republicans battered Rod J. Rosenstein, the deputy attorney general, in a hearing, a House resolution gave the Justice Department seven days to produce documents.",
+      "url": "https://www.nytimes.com/2018/06/28/us/politics/house-republicans-rod-rosenstein-russia.html",
+      "byline": "By NICHOLAS FANDOS",
+      "item_type": "Article",
+      "updated_date": "2018-06-28T17:56:14-04:00",
+      "created_date": "2018-06-28T13:08:19-04:00",
+      "published_date": "2018-06-28T13:08:19-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "United States Politics and Government",
+        "Russian Interference in 2016 US Elections and Ties to Trump Associates",
+        "Special Prosecutors (Independent Counsel)"
+      ],
+      "org_facet": [
+        "Federal Bureau of Investigation",
+        "Republican Party",
+        "House Committee on the Judiciary",
+        "House of Representatives"
+      ],
+      "per_facet": [
+        "Rosenstein, Rod J",
+        "Wray, Christopher A",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/us/politics/29dc-justice-1/29dc-justice-1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rod J. Rosenstein, right, the deputy attorney general, and Christopher A. Wray, the F.B.I. director, defended the Russia investigation before the House Judiciary Committee on Thursday.",
+          "copyright": "Erin Schaff for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/us/politics/29dc-justice-1/29dc-justice-1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rod J. Rosenstein, right, the deputy attorney general, and Christopher A. Wray, the F.B.I. director, defended the Russia investigation before the House Judiciary Committee on Thursday.",
+          "copyright": "Erin Schaff for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/us/politics/29dc-justice-1/merlin_140430504_159e41a8-48da-4a15-9fe2-beeca4d01817-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rod J. Rosenstein, right, the deputy attorney general, and Christopher A. Wray, the F.B.I. director, defended the Russia investigation before the House Judiciary Committee on Thursday.",
+          "copyright": "Erin Schaff for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/us/politics/29dc-justice-1/merlin_140430504_159e41a8-48da-4a15-9fe2-beeca4d01817-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rod J. Rosenstein, right, the deputy attorney general, and Christopher A. Wray, the F.B.I. director, defended the Russia investigation before the House Judiciary Committee on Thursday.",
+          "copyright": "Erin Schaff for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/us/politics/29dc-justice-1/merlin_140430504_159e41a8-48da-4a15-9fe2-beeca4d01817-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rod J. Rosenstein, right, the deputy attorney general, and Christopher A. Wray, the F.B.I. director, defended the Russia investigation before the House Judiciary Committee on Thursday.",
+          "copyright": "Erin Schaff for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2IE0Kp2"
+    },
+    {
+      "section": "U.S.",
+      "subsection": "Politics",
+      "title": "Ex-Aide to Roger Stone Is Subpoenaed in Russia Investigation",
+      "abstract": "The former aide, Andrew Miller, worked for Roger Stone, a longtime informal adviser to President Trump, during the 2016 campaign.",
+      "url": "https://www.nytimes.com/2018/06/28/us/politics/roger-stone-andrew-miller-subpoenaed-trump.html",
+      "byline": "By MAGGIE HABERMAN",
+      "item_type": "Article",
+      "updated_date": "2018-06-28T19:03:17-04:00",
+      "created_date": "2018-06-28T11:49:36-04:00",
+      "published_date": "2018-06-28T11:49:36-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "United States Politics and Government",
+        "Russian Interference in 2016 US Elections and Ties to Trump Associates",
+        "Presidential Election of 2016",
+        "Special Prosecutors (Independent Counsel)"
+      ],
+      "org_facet": [
+        "WikiLeaks",
+        "National Legal and Policy Center"
+      ],
+      "per_facet": [
+        "Stone, Roger J Jr",
+        "Trump, Donald J",
+        "Mueller, Robert S III"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/06/28/us/29DC-INVESTIGATE-01-stone/29DC-INVESTIGATE-01-stone-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An aide to Roger J. Stone Jr., long an informal adviser to President Trump, was subpoenaed to appear before a grand jury in the Russia investigation.",
+          "copyright": "Andrew Harnik/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/28/us/29DC-INVESTIGATE-01-stone/29DC-INVESTIGATE-01-stone-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An aide to Roger J. Stone Jr., long an informal adviser to President Trump, was subpoenaed to appear before a grand jury in the Russia investigation.",
+          "copyright": "Andrew Harnik/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/28/us/29DC-INVESTIGATE-01-stone/merlin-to-scoop-127951793-352451-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An aide to Roger J. Stone Jr., long an informal adviser to President Trump, was subpoenaed to appear before a grand jury in the Russia investigation.",
+          "copyright": "Andrew Harnik/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/28/us/29DC-INVESTIGATE-01-stone/merlin-to-scoop-127951793-352451-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An aide to Roger J. Stone Jr., long an informal adviser to President Trump, was subpoenaed to appear before a grand jury in the Russia investigation.",
+          "copyright": "Andrew Harnik/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/28/us/29DC-INVESTIGATE-01-stone/merlin-to-scoop-127951793-352451-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An aide to Roger J. Stone Jr., long an informal adviser to President Trump, was subpoenaed to appear before a grand jury in the Russia investigation.",
+          "copyright": "Andrew Harnik/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/2N7KKiy"
+    },
+    {
+      "section": "New York",
+      "subsection": "",
+      "title": "Crowley’s Loss Heralds an ‘End of an Era’: Last of the Party Bosses",
+      "abstract": "As boss of the Queens County Democratic Party, Representative Joseph Crowley held sway over many things, but that did not prevent his primary defeat.",
+      "url": "https://www.nytimes.com/2018/06/28/nyregion/joseph-crowley-party-boss-queens.html",
+      "byline": "By J. DAVID GOODMAN",
+      "item_type": "Article",
+      "updated_date": "2018-06-28T20:15:53-04:00",
+      "created_date": "2018-06-28T20:10:41-04:00",
+      "published_date": "2018-06-28T20:10:41-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Politics and Government"
+      ],
+      "org_facet": [
+        "Democratic Party"
+      ],
+      "per_facet": [
+        "Crowley, Joseph",
+        "Tweed, William M",
+        "Manton, Thomas J"
+      ],
+      "geo_facet": [
+        "Queens (NYC)",
+        "New York City",
+        "New York State"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/nyregion/29partyboss/29partyboss-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "As chairman of the Queens County Democratic Party, Joseph Crowley held the power to make or break candidates through endorsements and nuts-and-bolts campaign help.",
+          "copyright": "Al Drago for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/nyregion/29partyboss/29partyboss-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "As chairman of the Queens County Democratic Party, Joseph Crowley held the power to make or break candidates through endorsements and nuts-and-bolts campaign help.",
+          "copyright": "Al Drago for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/nyregion/29partyboss/merlin_139521051_ea3e4236-2fe3-472a-88b1-54653cf73982-articleInline.jpg",
+          "format": "Normal",
+          "height": 124,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "As chairman of the Queens County Democratic Party, Joseph Crowley held the power to make or break candidates through endorsements and nuts-and-bolts campaign help.",
+          "copyright": "Al Drago for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/nyregion/29partyboss/29partyboss-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "As chairman of the Queens County Democratic Party, Joseph Crowley held the power to make or break candidates through endorsements and nuts-and-bolts campaign help.",
+          "copyright": "Al Drago for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/nyregion/29partyboss/merlin_139521051_ea3e4236-2fe3-472a-88b1-54653cf73982-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1341,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "As chairman of the Queens County Democratic Party, Joseph Crowley held the power to make or break candidates through endorsements and nuts-and-bolts campaign help.",
+          "copyright": "Al Drago for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2lDHGOy"
+    },
+    {
+      "section": "New York",
+      "subsection": "",
+      "title": "Alexandria Ocasio-Cortez Emerges as a Political Star",
+      "abstract": "Ms. Ocasio-Cortez has been a waitress, a community activist and a campaign organizer for Bernie Sanders. Now she is a political rock star.",
+      "url": "https://www.nytimes.com/2018/06/27/nyregion/alexandria-ocasio-cortez-bio-profile.html",
+      "byline": "By ANDY NEWMAN, VIVIAN WANG and LUIS FERRÉ-SADURNÍ",
+      "item_type": "Article",
+      "updated_date": "2018-06-28T16:22:32-04:00",
+      "created_date": "2018-06-27T20:28:00-04:00",
+      "published_date": "2018-06-27T20:28:00-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Elections, House of Representatives",
+        "Primaries and Caucuses",
+        "Puerto Ricans"
+      ],
+      "org_facet": [
+        "Democratic Party",
+        "Democratic Socialists of America"
+      ],
+      "per_facet": [
+        "Ocasio-Cortez, Alexandria"
+      ],
+      "geo_facet": [
+        "New York State",
+        "Bronx (NYC)",
+        "New York City"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/06/28/nyregion/28profile22/merlin_140384889_bc3ba23c-103c-4aa7-8943-862707510745-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "If Ms. Ocasio-Cortez defeats her Republican opponent in November, she, at 28, would be the youngest woman ever elected to Congress.",
+          "copyright": "Annie Tritt for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/28/nyregion/28profile22/merlin_140384889_bc3ba23c-103c-4aa7-8943-862707510745-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "If Ms. Ocasio-Cortez defeats her Republican opponent in November, she, at 28, would be the youngest woman ever elected to Congress.",
+          "copyright": "Annie Tritt for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/28/nyregion/28profile22/merlin_140384889_bc3ba23c-103c-4aa7-8943-862707510745-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "If Ms. Ocasio-Cortez defeats her Republican opponent in November, she, at 28, would be the youngest woman ever elected to Congress.",
+          "copyright": "Annie Tritt for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/28/nyregion/28profile22/merlin_140384889_bc3ba23c-103c-4aa7-8943-862707510745-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "If Ms. Ocasio-Cortez defeats her Republican opponent in November, she, at 28, would be the youngest woman ever elected to Congress.",
+          "copyright": "Annie Tritt for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/28/nyregion/28profile22/merlin_140384889_bc3ba23c-103c-4aa7-8943-862707510745-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "If Ms. Ocasio-Cortez defeats her Republican opponent in November, she, at 28, would be the youngest woman ever elected to Congress.",
+          "copyright": "Annie Tritt for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2IucOch"
+    },
+    {
+      "section": "Reader Center",
+      "subsection": "",
+      "title": "From New York’s Primary Upset to Polling Data, How The Times Is Covering the Elections",
+      "abstract": "Our Politics editor, Patrick Healy, answered readers’ questions on The Times’s political coverage and plans for the midterm and 2020 elections.",
+      "url": "https://www.nytimes.com/2018/06/28/reader-center/election-coverage-midterms.html",
+      "byline": "By THE NEW YORK TIMES",
+      "item_type": "Article",
+      "updated_date": "2018-06-28T17:54:40-04:00",
+      "created_date": "2018-06-28T14:38:19-04:00",
+      "published_date": "2018-06-28T14:38:19-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "Polls and Public Opinion",
+        "Midterm Elections (2018)",
+        "United States Politics and Government"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/06/28/nyregion/29ocasio-copy/28ocasio-cortez3-thumbStandard-v4.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Alexandria Ocasio-Cortez, a 28-year-old political newcomer, beat one of the senior leaders in the House in a New York primary on Tuesday.",
+          "copyright": "David Dee Delgado for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/28/nyregion/29ocasio-copy/28ocasio-cortez3-thumbLarge-v4.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Alexandria Ocasio-Cortez, a 28-year-old political newcomer, beat one of the senior leaders in the House in a New York primary on Tuesday.",
+          "copyright": "David Dee Delgado for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/28/nyregion/29ocasio-copy/28ocasio-cortez3-articleInline-v4.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Alexandria Ocasio-Cortez, a 28-year-old political newcomer, beat one of the senior leaders in the House in a New York primary on Tuesday.",
+          "copyright": "David Dee Delgado for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/28/nyregion/29ocasio-copy/28ocasio-cortez3-mediumThreeByTwo210-v4.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Alexandria Ocasio-Cortez, a 28-year-old political newcomer, beat one of the senior leaders in the House in a New York primary on Tuesday.",
+          "copyright": "David Dee Delgado for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/28/nyregion/29ocasio-copy/28ocasio-cortez3-superJumbo-v4.jpg",
+          "format": "superJumbo",
+          "height": 1364,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Alexandria Ocasio-Cortez, a 28-year-old political newcomer, beat one of the senior leaders in the House in a New York primary on Tuesday.",
+          "copyright": "David Dee Delgado for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2KqH3Tb"
+    },
+    {
+      "section": "Arts",
+      "subsection": "",
+      "title": "After #MeToo, the Ripple Effect",
+      "abstract": "As the harassment conversation shifts to “what’s next?”, small networks of women are helping to lay the groundwork for legal and institutional change.",
+      "url": "https://www.nytimes.com/2018/06/28/arts/what-is-next-metoo-movement.html",
+      "byline": "By JESSICA BENNETT",
+      "item_type": "Article",
+      "updated_date": "2018-06-28T04:00:01-04:00",
+      "created_date": "2018-06-28T04:00:01-04:00",
+      "published_date": "2018-06-28T04:00:01-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "#MeToo Movement",
+        "Sexual Harassment",
+        "Sex Crimes",
+        "Law and Legislation"
+      ],
+      "org_facet": [
+        "Time's Up"
+      ],
+      "per_facet": [
+        "Horovitz, Israel"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/07/01/arts/01MET00-ESSAY/01MET00-ESSAY-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by Najeebah Al-Ghadban/The New York Times; Photographs by Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/07/01/arts/01MET00-ESSAY/01MET00-ESSAY-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by Najeebah Al-Ghadban/The New York Times; Photographs by Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/07/01/arts/01MET00-ESSAY/01MET00-ESSAY-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 150,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by Najeebah Al-Ghadban/The New York Times; Photographs by Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/07/01/arts/01MET00-ESSAY/01MET00-ESSAY-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by Najeebah Al-Ghadban/The New York Times; Photographs by Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/07/01/arts/01MET00-ESSAY/01MET00-ESSAY-superJumbo-v2.jpg",
+          "format": "superJumbo",
+          "height": 1619,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by Najeebah Al-Ghadban/The New York Times; Photographs by Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/2Kscs7H"
+    },
+    {
+      "section": "Sports",
+      "subsection": "World Cup",
+      "title": "Belgium Beats England, but Faces Tougher World Cup Bracket",
+      "abstract": "Adnan Januzaj curled in a left-footed shot in the second half to give Belgium a 1-0 victory over England.",
+      "url": "https://www.nytimes.com/2018/06/28/sports/world-cup/england-vs-belgium.html",
+      "byline": "By ANDREW DAS",
+      "item_type": "Article",
+      "updated_date": "2018-06-28T17:29:06-04:00",
+      "created_date": "2018-06-28T12:00:27-04:00",
+      "published_date": "2018-06-28T12:00:27-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "World Cup 2018 (Soccer)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/06/28/sports/belgium-topper/belgium-topper-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "England goalkeeper Jordan Pickford fails to save a goal by Belgium's Adnan Januzaj in the second half.",
+          "copyright": "Michael Sohn/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/28/sports/belgium-topper/belgium-topper-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "England goalkeeper Jordan Pickford fails to save a goal by Belgium's Adnan Januzaj in the second half.",
+          "copyright": "Michael Sohn/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/28/sports/belgium-topper/merlin_140451033_b16ecf84-262a-4145-8d29-9172fef61740-articleInline.jpg",
+          "format": "Normal",
+          "height": 116,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "England goalkeeper Jordan Pickford fails to save a goal by Belgium's Adnan Januzaj in the second half.",
+          "copyright": "Michael Sohn/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/28/sports/belgium-topper/belgium-topper-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "England goalkeeper Jordan Pickford fails to save a goal by Belgium's Adnan Januzaj in the second half.",
+          "copyright": "Michael Sohn/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/28/sports/belgium-topper/merlin_140451033_b16ecf84-262a-4145-8d29-9172fef61740-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1254,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "England goalkeeper Jordan Pickford fails to save a goal by Belgium's Adnan Januzaj in the second half.",
+          "copyright": "Michael Sohn/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/2lF2eGk"
+    },
+    {
+      "section": "Sports",
+      "subsection": "World Cup",
+      "title": "Why England or Belgium Will Win the World Cup (and Why It Won’t)",
+      "abstract": "England and Belgium have a largely meaningless match on Thursday, since both have clinched advancement. Will they meet again in the World Cup final?",
+      "url": "https://www.nytimes.com/2018/06/28/sports/world-cup/england-belgium.html",
+      "byline": "By MATTHEW FUTTERMAN",
+      "item_type": "Article",
+      "updated_date": "2018-06-28T17:31:54-04:00",
+      "created_date": "2018-06-28T12:30:36-04:00",
+      "published_date": "2018-06-28T12:30:36-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "World Cup (Soccer)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "De Bruyne, Kevin (1991- )",
+        "Hazard, Eden",
+        "Kane, Harry (1993- )",
+        "Lukaku, Romelu (1993- )",
+        "Martinez, Roberto (1973- )"
+      ],
+      "geo_facet": [
+        "Belgium",
+        "England"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/sports/29whyenglandbelgium-england1/29whyenglandbelgium-england1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "England celebrated its first goal against Tunisia on June 18 in Volgograd, Russia.",
+          "copyright": "Sergei Grits/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/sports/29whyenglandbelgium-england1/29whyenglandbelgium-england1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "England celebrated its first goal against Tunisia on June 18 in Volgograd, Russia.",
+          "copyright": "Sergei Grits/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/sports/29whyenglandbelgium-england1/merlin_139814460_25b59f30-af97-4e43-990a-a3efbd9d2d2c-articleInline.jpg",
+          "format": "Normal",
+          "height": 132,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "England celebrated its first goal against Tunisia on June 18 in Volgograd, Russia.",
+          "copyright": "Sergei Grits/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/sports/29whyenglandbelgium-england1/29whyenglandbelgium-england1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "England celebrated its first goal against Tunisia on June 18 in Volgograd, Russia.",
+          "copyright": "Sergei Grits/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/sports/29whyenglandbelgium-england1/merlin_139814460_25b59f30-af97-4e43-990a-a3efbd9d2d2c-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1426,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "England celebrated its first goal against Tunisia on June 18 in Volgograd, Russia.",
+          "copyright": "Sergei Grits/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/2N6lwAQ"
+    },
+    {
+      "section": "World",
+      "subsection": "Americas",
+      "title": "Mexican Soccer Fans’ New Champions: The South Korean Squad",
+      "abstract": "Germany’s World Cup loss meant Mexico would live to fight another day — and fans had South Korea to thank.",
+      "url": "https://www.nytimes.com/2018/06/28/world/americas/world-cup-mexico-south-korea.html",
+      "byline": "By TIFFANY MAY and SU-HYUN LEE",
+      "item_type": "Article",
+      "updated_date": "2018-06-28T05:39:34-04:00",
+      "created_date": "2018-06-28T05:23:15-04:00",
+      "published_date": "2018-06-28T05:23:15-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "World Cup 2014 (Soccer)"
+      ],
+      "org_facet": [
+        "International Federation of Association Football (FIFA)"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Mexico",
+        "South Korea"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/world/29soccer-1/29soccer-1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "South Korean consul general to Mexico, Byoung-Jin Han, celebrating with grateful Mexican fans outside the Korea embassy in Mexico City, Mexico, Wednesday.",
+          "copyright": "James Wagner/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/world/29soccer-1/29soccer-1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "South Korean consul general to Mexico, Byoung-Jin Han, celebrating with grateful Mexican fans outside the Korea embassy in Mexico City, Mexico, Wednesday.",
+          "copyright": "James Wagner/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/world/29soccer-1/29soccer-1-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "South Korean consul general to Mexico, Byoung-Jin Han, celebrating with grateful Mexican fans outside the Korea embassy in Mexico City, Mexico, Wednesday.",
+          "copyright": "James Wagner/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/world/29soccer-1/29soccer-1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "South Korean consul general to Mexico, Byoung-Jin Han, celebrating with grateful Mexican fans outside the Korea embassy in Mexico City, Mexico, Wednesday.",
+          "copyright": "James Wagner/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/world/29soccer-1/29soccer-1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1344,
+          "width": 2016,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "South Korean consul general to Mexico, Byoung-Jin Han, celebrating with grateful Mexican fans outside the Korea embassy in Mexico City, Mexico, Wednesday.",
+          "copyright": "James Wagner/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2lHduSE"
+    },
+    {
+      "section": "Opinion",
+      "subsection": "",
+      "title": "Trump and Putin, Best Frenemies Forever",
+      "abstract": "It’s good to meet with adversaries. But when Mr. Trump sits down with Mr. Putin, it will be a meeting of kindred spirits. That’s a problem.",
+      "url": "https://www.nytimes.com/2018/06/28/opinion/trump-putin-summit-russia.html",
+      "byline": "By THE EDITORIAL BOARD",
+      "item_type": "Article",
+      "updated_date": "2018-06-28T19:47:55-04:00",
+      "created_date": "2018-06-28T19:47:55-04:00",
+      "published_date": "2018-06-28T19:47:55-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Russian Interference in 2016 US Elections and Ties to Trump Associates",
+        "United States International Relations",
+        "Cyberwarfare and Defense",
+        "United States Politics and Government",
+        "Elections",
+        "Arms Control and Limitation and Disarmament",
+        "Nuclear Weapons"
+      ],
+      "org_facet": [
+        "North Atlantic Treaty Organization"
+      ],
+      "per_facet": [
+        "Putin, Vladimir V",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Crimea (Ukraine)",
+        "Europe",
+        "North Korea",
+        "Russia",
+        "Ukraine",
+        "United States"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/nyregion/29fri1/29fri1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Russia’s President Vladimir Putin and President Donald Trump hold shake hands at the G20 summit in Hamburg on July 7.",
+          "copyright": "Mikhail Metzel\\TASS, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/nyregion/29fri1/29fri1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Russia’s President Vladimir Putin and President Donald Trump hold shake hands at the G20 summit in Hamburg on July 7.",
+          "copyright": "Mikhail Metzel\\TASS, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/nyregion/29fri1/merlin_140450262_2dd350ba-3472-4b23-aaaa-b7e1307b3b79-articleInline.jpg",
+          "format": "Normal",
+          "height": 123,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Russia’s President Vladimir Putin and President Donald Trump hold shake hands at the G20 summit in Hamburg on July 7.",
+          "copyright": "Mikhail Metzel\\TASS, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/nyregion/29fri1/29fri1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Russia’s President Vladimir Putin and President Donald Trump hold shake hands at the G20 summit in Hamburg on July 7.",
+          "copyright": "Mikhail Metzel\\TASS, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/nyregion/29fri1/merlin_140450262_2dd350ba-3472-4b23-aaaa-b7e1307b3b79-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1323,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Russia’s President Vladimir Putin and President Donald Trump hold shake hands at the G20 summit in Hamburg on July 7.",
+          "copyright": "Mikhail Metzel\\TASS, via Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/2lGvRXV"
+    },
+    {
+      "section": "Opinion",
+      "subsection": "Sunday Review",
+      "title": "This Is the World Mitch McConnell Gave Us",
+      "abstract": "Donald Trump dominates our universe. McConnell made it all possible.",
+      "url": "https://www.nytimes.com/2018/06/28/opinion/sunday/mitch-mcconnell-supreme-court-senate.html",
+      "byline": "By ALEC MacGILLIS",
+      "item_type": "Article",
+      "updated_date": "2018-06-28T17:37:05-04:00",
+      "created_date": "2018-06-28T15:55:02-04:00",
+      "published_date": "2018-06-28T15:55:02-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "United States Politics and Government",
+        "Tea Party Movement",
+        "Elections, Senate",
+        "Campaign Finance",
+        "Citizens United v Federal Election Commission (Supreme Court Decision)"
+      ],
+      "org_facet": [
+        "Supreme Court (US)",
+        "Senate"
+      ],
+      "per_facet": [
+        "McConnell, Mitch"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/07/01/opinion/sunday/01macgillis/01macgillis-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Senator Mitch McConnell during a weekly senate luncheon press conference in March.",
+          "copyright": "Tom Brenner/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/07/01/opinion/sunday/01macgillis/01macgillis-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Senator Mitch McConnell during a weekly senate luncheon press conference in March.",
+          "copyright": "Tom Brenner/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/07/01/opinion/sunday/01macgillis/01macgillis-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Senator Mitch McConnell during a weekly senate luncheon press conference in March.",
+          "copyright": "Tom Brenner/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/07/01/opinion/sunday/01macgillis/01macgillis-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Senator Mitch McConnell during a weekly senate luncheon press conference in March.",
+          "copyright": "Tom Brenner/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/07/01/opinion/sunday/01macgillis/01macgillis-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Senator Mitch McConnell during a weekly senate luncheon press conference in March.",
+          "copyright": "Tom Brenner/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2IzAz2G"
+    },
+    {
+      "section": "Opinion",
+      "subsection": "Sunday Review",
+      "title": "The Right Has Won the Supreme Court. Now What?",
+      "abstract": "Three lessons the Democrats need to embrace, right now, if they have any hope of pushing back.",
+      "url": "https://www.nytimes.com/2018/06/28/opinion/sunday/the-right-has-won-the-supreme-court-now-what.html",
+      "byline": "By MICHAEL TOMASKY",
+      "item_type": "Article",
+      "updated_date": "2018-06-28T18:05:19-04:00",
+      "created_date": "2018-06-28T15:00:04-04:00",
+      "published_date": "2018-06-28T15:00:04-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Politics and Government",
+        "Appointments and Executive Changes",
+        "Abortion"
+      ],
+      "org_facet": [
+        "Democratic Party",
+        "Supreme Court (US)"
+      ],
+      "per_facet": [
+        "Marshall, Thurgood",
+        "Kennedy, Anthony M",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/07/01/opinion/sunday/01Tomasky-sub/merlin_106704748_3acff9e5-24e8-4c18-a0db-7a4871e599f0-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Democrats need to get their core constituencies to understand what is at stake with this Supreme Court nomination.",
+          "copyright": "Gabriella Demczuk for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/07/01/opinion/sunday/01Tomasky-sub/merlin_106704748_3acff9e5-24e8-4c18-a0db-7a4871e599f0-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Democrats need to get their core constituencies to understand what is at stake with this Supreme Court nomination.",
+          "copyright": "Gabriella Demczuk for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/07/01/opinion/sunday/01Tomasky-sub/merlin_106704748_3acff9e5-24e8-4c18-a0db-7a4871e599f0-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Democrats need to get their core constituencies to understand what is at stake with this Supreme Court nomination.",
+          "copyright": "Gabriella Demczuk for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/07/01/opinion/sunday/01Tomasky-sub/merlin_106704748_3acff9e5-24e8-4c18-a0db-7a4871e599f0-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Democrats need to get their core constituencies to understand what is at stake with this Supreme Court nomination.",
+          "copyright": "Gabriella Demczuk for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/07/01/opinion/sunday/01Tomasky-sub/merlin_106704748_3acff9e5-24e8-4c18-a0db-7a4871e599f0-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Democrats need to get their core constituencies to understand what is at stake with this Supreme Court nomination.",
+          "copyright": "Gabriella Demczuk for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2N6TtS0"
+    },
+    {
+      "section": "Opinion",
+      "subsection": "",
+      "title": "Women, Don’t Back Down Online",
+      "abstract": "I used to think the best response to online abuse was to retreat and be quiet. Now I think we need to blaze and burn.",
+      "url": "https://www.nytimes.com/2018/06/28/opinion/women-dont-back-down-online.html",
+      "byline": "By JULIA BAIRD",
+      "item_type": "Article",
+      "updated_date": "2018-06-28T20:26:58-04:00",
+      "created_date": "2018-06-28T20:26:58-04:00",
+      "published_date": "2018-06-28T20:26:58-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Cyberharassment",
+        "Women and Girls",
+        "Social Media"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/06/28/opinion/28baird/28baird-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Kiersten Essenpreis"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/28/opinion/28baird/28baird-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Kiersten Essenpreis"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/28/opinion/28baird/merlin_140462022_eab6d242-b9e1-46de-99d4-5a1478a794bf-articleInline.jpg",
+          "format": "Normal",
+          "height": 136,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Kiersten Essenpreis"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/28/opinion/28baird/28baird-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Kiersten Essenpreis"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/28/opinion/28baird/merlin_140462022_eab6d242-b9e1-46de-99d4-5a1478a794bf-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1463,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Kiersten Essenpreis"
+        }
+      ],
+      "short_url": "https://nyti.ms/2IBgDwt"
+    },
+    {
+      "section": "Opinion",
+      "subsection": "",
+      "title": "Anthony Kennedy and the Privatization of Meaning",
+      "abstract": "The famous “mystery of life” passage shrugged at the big questions and hastened the march of individualism.",
+      "url": "https://www.nytimes.com/2018/06/28/opinion/anthony-kennedy-individualism.html",
+      "byline": "By DAVID BROOKS",
+      "item_type": "Article",
+      "updated_date": "2018-06-28T19:02:11-04:00",
+      "created_date": "2018-06-28T19:02:11-04:00",
+      "published_date": "2018-06-28T19:02:11-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Philosophy",
+        "Ethics (Personal)"
+      ],
+      "org_facet": [
+        "Supreme Court (US)"
+      ],
+      "per_facet": [
+        "Kennedy, Anthony M"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/06/28/opinion/28brooks/28brooks-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Justice Anthony Kennedy in 2012.",
+          "copyright": "Stephen Voss/Redux"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/28/opinion/28brooks/28brooks-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Justice Anthony Kennedy in 2012.",
+          "copyright": "Stephen Voss/Redux"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/28/opinion/28brooks/merlin_140447772_05062bcb-c09b-4543-9329-a8f5c00df7a3-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Justice Anthony Kennedy in 2012.",
+          "copyright": "Stephen Voss/Redux"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/28/opinion/28brooks/merlin_140447772_05062bcb-c09b-4543-9329-a8f5c00df7a3-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Justice Anthony Kennedy in 2012.",
+          "copyright": "Stephen Voss/Redux"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/28/opinion/28brooks/merlin_140447772_05062bcb-c09b-4543-9329-a8f5c00df7a3-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Justice Anthony Kennedy in 2012.",
+          "copyright": "Stephen Voss/Redux"
+        }
+      ],
+      "short_url": "https://nyti.ms/2N7mI72"
+    },
+    {
+      "section": "Arts",
+      "subsection": "Art & Design",
+      "title": "Coney Island’s Newest Wonder: Sharkitecture!",
+      "abstract": "A New York Aquarium pavilion, with 115 marine species, finally opens this weekend, and the overall effect makes it more of a visible, welcoming presence and neighbor.",
+      "url": "https://www.nytimes.com/2018/06/28/arts/design/new-york-aquarium-sharks-sandy.html",
+      "byline": "By MICHAEL KIMMELMAN",
+      "item_type": "Article",
+      "updated_date": "2018-06-28T18:03:51-04:00",
+      "created_date": "2018-06-28T08:00:07-04:00",
+      "published_date": "2018-06-28T08:00:07-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Oceans and Seas",
+        "Sharks",
+        "Aquariums",
+        "Architecture"
+      ],
+      "org_facet": [
+        "New York Aquarium"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Coney Island (Brooklyn, NY)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/arts/29aquarium3/merlin_140260197_a2c06799-0ca8-47f5-aa2e-a845ac696533-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Sam Hodgson for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/arts/29aquarium3/merlin_140260197_a2c06799-0ca8-47f5-aa2e-a845ac696533-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Sam Hodgson for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/arts/29aquarium3/merlin_140260197_a2c06799-0ca8-47f5-aa2e-a845ac696533-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Sam Hodgson for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/arts/29aquarium3/merlin_140260197_a2c06799-0ca8-47f5-aa2e-a845ac696533-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Sam Hodgson for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/arts/29aquarium3/merlin_140260197_a2c06799-0ca8-47f5-aa2e-a845ac696533-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Sam Hodgson for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2lHvBYE"
+    },
+    {
+      "section": "Arts",
+      "subsection": "Art & Design",
+      "title": "A George Washington Monument, Rediscovered in Fragile Plaster",
+      "abstract": "Antonio Canova’s neo-Classical plaster statue of George Washington has left Italy for the first time. It’s an essential work of art now at the Frick.",
+      "url": "https://www.nytimes.com/2018/06/27/arts/design/canova-george-washington-frick-collection-review.html",
+      "byline": "By JASON FARAGO",
+      "item_type": "Article",
+      "updated_date": "2018-06-28T18:01:05-04:00",
+      "created_date": "2018-06-27T08:00:08-04:00",
+      "published_date": "2018-06-27T08:00:08-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Art",
+        "Sculpture"
+      ],
+      "org_facet": [
+        "Frick Collection",
+        "Monticello (Thomas Jefferson's Home)"
+      ],
+      "per_facet": [
+        "Canova, Antonio",
+        "Jefferson, Thomas"
+      ],
+      "geo_facet": [
+        "North Carolina"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/arts/29canova1-sub/29canova1-sub-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Antonio Canova&rsquo;s &ldquo;Modello for George Washington (1818),&rdquo; a plaster version of Washington as a Roman general, at the Frick Collection. A fire destroyed the original marble monument.",
+          "copyright": "Emon Hassan for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/arts/29canova1-sub/29canova1-sub-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Antonio Canova&rsquo;s &ldquo;Modello for George Washington (1818),&rdquo; a plaster version of Washington as a Roman general, at the Frick Collection. A fire destroyed the original marble monument.",
+          "copyright": "Emon Hassan for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/arts/29canova1-sub/merlin_139735383_38bf171b-3145-4a32-8179-c77cc5aad3b3-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Antonio Canova&rsquo;s &ldquo;Modello for George Washington (1818),&rdquo; a plaster version of Washington as a Roman general, at the Frick Collection. A fire destroyed the original marble monument.",
+          "copyright": "Emon Hassan for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/arts/29canova1-sub/merlin_139735383_38bf171b-3145-4a32-8179-c77cc5aad3b3-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Antonio Canova&rsquo;s &ldquo;Modello for George Washington (1818),&rdquo; a plaster version of Washington as a Roman general, at the Frick Collection. A fire destroyed the original marble monument.",
+          "copyright": "Emon Hassan for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/arts/29canova1-sub/merlin_139735383_38bf171b-3145-4a32-8179-c77cc5aad3b3-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Antonio Canova&rsquo;s &ldquo;Modello for George Washington (1818),&rdquo; a plaster version of Washington as a Roman general, at the Frick Collection. A fire destroyed the original marble monument.",
+          "copyright": "Emon Hassan for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2Kq6jsH"
+    },
+    {
+      "section": "Magazine",
+      "subsection": "",
+      "title": "Does American ‘Tribalism’ End in a Compromise, or a Fight?",
+      "abstract": "Complaints about our deepening cultural and political divides tend to assume all disagreements can be bridged. History suggests otherwise.",
+      "url": "https://www.nytimes.com/2018/06/26/magazine/does-american-tribalism-end-in-a-compromise-or-a-fight.html",
+      "byline": "By LAILA LALAMI",
+      "item_type": "Article",
+      "updated_date": "2018-06-26T05:00:05-04:00",
+      "created_date": "2018-06-26T05:00:05-04:00",
+      "published_date": "2018-06-26T05:00:05-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "United States Politics and Government",
+        "Immigration and Emigration"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Clinton, Bill"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/07/01/magazine/01mag-firstwords-image1/01mag-firstwords-image1-thumbStandard.png",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Photo illustration by Derek Brahney"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/07/01/magazine/01mag-firstwords-image1/01mag-firstwords-image1-thumbLarge.png",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Photo illustration by Derek Brahney"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/07/01/magazine/01mag-firstwords-image1/01mag-firstwords-image1-articleInline.png",
+          "format": "Normal",
+          "height": 190,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Photo illustration by Derek Brahney"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/07/01/magazine/01mag-firstwords-image1/01mag-firstwords-image1-mediumThreeByTwo210-v2.png",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Photo illustration by Derek Brahney"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/07/01/magazine/01mag-firstwords-image1/01mag-firstwords-image1-superJumbo.png",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 2045,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Photo illustration by Derek Brahney"
+        }
+      ],
+      "short_url": "https://nyti.ms/2MYVako"
+    },
+    {
+      "section": "U.S.",
+      "subsection": "",
+      "title": "‘This Is Intimidation’: Interview With ICE Whistle-Blower Is Interrupted by Federal Agents",
+      "abstract": "James Schwab quit his job because he did not want to lie on behalf of the Trump administration. Three months later, agents knocked on his door.",
+      "url": "https://www.nytimes.com/2018/06/28/us/ice-james-schwab-interview.html",
+      "byline": "By MATTHEW HAAG",
+      "item_type": "Article",
+      "updated_date": "2018-06-28T14:42:27-04:00",
+      "created_date": "2018-06-28T14:20:10-04:00",
+      "published_date": "2018-06-28T14:20:10-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "United States Politics and Government",
+        "Illegal Immigration"
+      ],
+      "org_facet": [
+        "Homeland Security Department",
+        "Immigration and Customs Enforcement (US)"
+      ],
+      "per_facet": [
+        "Schwab, James (Spokesman)",
+        "Schaaf, Libby (1965- )"
+      ],
+      "geo_facet": [
+        "Oakland (Calif)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/us/29xp-spokesman1/29xp-spokesman1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "James Schwab, a former Immigration and Customs Enforcement spokesman, spoke with “CBS This Morning,” his first TV interview since he quit the agency in March.",
+          "copyright": "CBS News"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/us/29xp-spokesman1/29xp-spokesman1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "James Schwab, a former Immigration and Customs Enforcement spokesman, spoke with “CBS This Morning,” his first TV interview since he quit the agency in March.",
+          "copyright": "CBS News"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/us/29xp-spokesman1/29xp-spokesman1-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "James Schwab, a former Immigration and Customs Enforcement spokesman, spoke with “CBS This Morning,” his first TV interview since he quit the agency in March.",
+          "copyright": "CBS News"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/us/29xp-spokesman1/29xp-spokesman1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "James Schwab, a former Immigration and Customs Enforcement spokesman, spoke with “CBS This Morning,” his first TV interview since he quit the agency in March.",
+          "copyright": "CBS News"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/us/29xp-spokesman1/29xp-spokesman1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 925,
+          "width": 1541,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "James Schwab, a former Immigration and Customs Enforcement spokesman, spoke with “CBS This Morning,” his first TV interview since he quit the agency in March.",
+          "copyright": "CBS News"
+        }
+      ],
+      "short_url": "https://nyti.ms/2KyKVSk"
+    },
+    {
+      "section": "Technology",
+      "subsection": "",
+      "title": "California Passes Sweeping Law to Protect Online Privacy",
+      "abstract": "The attempt to provide regulatory oversight of the tech industry’s data collection is considered the most comprehensive in the nation.",
+      "url": "https://www.nytimes.com/2018/06/28/technology/california-online-privacy-law.html",
+      "byline": "By DAISUKE WAKABAYASHI",
+      "item_type": "Article",
+      "updated_date": "2018-06-28T18:58:54-04:00",
+      "created_date": "2018-06-28T18:58:54-04:00",
+      "published_date": "2018-06-28T18:58:54-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Privacy",
+        "Law and Legislation",
+        "State Legislatures",
+        "Data-Mining and Database Marketing",
+        "Regulation and Deregulation of Industry"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Mactaggart, Alastair"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/business/29CAPRIVACY-dress/29CAPRIVACY-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A new privacy law in California, believed to be the toughest in the United States, gives consumers new rights over their personal data.",
+          "copyright": "Jason Henry for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/business/29CAPRIVACY-dress/29CAPRIVACY-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A new privacy law in California, believed to be the toughest in the United States, gives consumers new rights over their personal data.",
+          "copyright": "Jason Henry for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/business/29CAPRIVACY-dress/29CAPRIVACY-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A new privacy law in California, believed to be the toughest in the United States, gives consumers new rights over their personal data.",
+          "copyright": "Jason Henry for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/business/29CAPRIVACY-dress/29CAPRIVACY-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A new privacy law in California, believed to be the toughest in the United States, gives consumers new rights over their personal data.",
+          "copyright": "Jason Henry for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/business/29CAPRIVACY-dress/29CAPRIVACY-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A new privacy law in California, believed to be the toughest in the United States, gives consumers new rights over their personal data.",
+          "copyright": "Jason Henry for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2lEdwdX"
+    },
+    {
+      "section": "Sports",
+      "subsection": "Pro Football",
+      "title": "Without Disclosing Details, N.F.L. Fines Jerry Richardson for Sexual Harassment and Racist Comments",
+      "abstract": "Richardson, whose workplace behavior was first exposed by Sports Illustrated in December, is in the process of selling the team for $2.2 billion.",
+      "url": "https://www.nytimes.com/2018/06/28/sports/football/jerry-richardson-nfl-panthers.html",
+      "byline": "By VICTOR MATHER and KEN BELSON",
+      "item_type": "Article",
+      "updated_date": "2018-06-28T20:25:07-04:00",
+      "created_date": "2018-06-28T13:55:21-04:00",
+      "published_date": "2018-06-28T13:55:21-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Football",
+        "Sexual Harassment",
+        "Workplace Hazards and Violations"
+      ],
+      "org_facet": [
+        "Carolina Panthers",
+        "National Football League"
+      ],
+      "per_facet": [
+        "Richardson, Jerry (1936- )",
+        "White, Mary Jo"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/sports/29powellprint/29panthers-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jerry Richardson is in the process of selling the Panthers for $2.2 billion.",
+          "copyright": "Chuck Burton/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/sports/29powellprint/29panthers-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jerry Richardson is in the process of selling the Panthers for $2.2 billion.",
+          "copyright": "Chuck Burton/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/sports/29powellprint/merlin_138248403_e6654b20-9087-40dc-9fa5-5b2c69dc4847-articleInline.jpg",
+          "format": "Normal",
+          "height": 137,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jerry Richardson is in the process of selling the Panthers for $2.2 billion.",
+          "copyright": "Chuck Burton/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/sports/29powellprint/29panthers-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jerry Richardson is in the process of selling the Panthers for $2.2 billion.",
+          "copyright": "Chuck Burton/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/sports/29powellprint/merlin_138248403_e6654b20-9087-40dc-9fa5-5b2c69dc4847-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1481,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jerry Richardson is in the process of selling the Panthers for $2.2 billion.",
+          "copyright": "Chuck Burton/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/2IE6VcI"
+    },
+    {
+      "section": "Business Day",
+      "subsection": "",
+      "title": "Bank ‘Stress Tests’ Results Clear Way for Wall Street to Reward Investors",
+      "abstract": "The Federal Reserve gave clean bills of health to top banks, but told Goldman Sachs and Morgan Stanley to freeze shareholder payouts at last year’s levels.",
+      "url": "https://www.nytimes.com/2018/06/28/business/bank-stress-tests-fed.html",
+      "byline": "By EMILY FLITTER and JIM TANKERSLEY",
+      "item_type": "Article",
+      "updated_date": "2018-06-28T19:26:42-04:00",
+      "created_date": "2018-06-28T16:30:08-04:00",
+      "published_date": "2018-06-28T16:30:08-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Banking and Financial Institutions",
+        "Regulation and Deregulation of Industry"
+      ],
+      "org_facet": [
+        "Federal Reserve System"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/business/29dc-stresstest-print/29dc-stresstest-1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Federal Reserve said big banks are strong enough to withstand an economic downturn and can reward shareholders.",
+          "copyright": "Jeenah Moon for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/business/29dc-stresstest-print/29dc-stresstest-1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Federal Reserve said big banks are strong enough to withstand an economic downturn and can reward shareholders.",
+          "copyright": "Jeenah Moon for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/business/29dc-stresstest-print/merlin_137682192_f09cbc63-7227-4d76-8efe-3001b1c544ac-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Federal Reserve said big banks are strong enough to withstand an economic downturn and can reward shareholders.",
+          "copyright": "Jeenah Moon for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/business/29dc-stresstest-print/29dc-stresstest-1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Federal Reserve said big banks are strong enough to withstand an economic downturn and can reward shareholders.",
+          "copyright": "Jeenah Moon for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/business/29dc-stresstest-print/merlin_137682192_f09cbc63-7227-4d76-8efe-3001b1c544ac-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Federal Reserve said big banks are strong enough to withstand an economic downturn and can reward shareholders.",
+          "copyright": "Jeenah Moon for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2lFSQlK"
+    },
+    {
+      "section": "World",
+      "subsection": "Middle East",
+      "title": "Israeli Judge Convicts Man on Charges of Threatening U.S. Jewish Groups",
+      "abstract": "The judge said the man, a dual American and Israeli citizen, made thousands of threats, including against numerous Jewish organizations in the United States.",
+      "url": "https://www.nytimes.com/2018/06/28/world/middleeast/israel-convict-jewish-threats.html",
+      "byline": "By NIRAJ CHOKSHI",
+      "item_type": "Article",
+      "updated_date": "2018-06-28T18:15:04-04:00",
+      "created_date": "2018-06-28T17:22:29-04:00",
+      "published_date": "2018-06-28T17:22:29-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Threats and Threatening Messages",
+        "Hate Crimes",
+        "Jews and Judaism",
+        "Anti-Semitism"
+      ],
+      "org_facet": [
+        "Federal Bureau of Investigation"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Israel",
+        "United States"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/world/29xp-threats/29xp-threats-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Michael Ron David Kadar, seated, was convicted in Israel on Thursday of making threats against Jewish organizations in the United States.",
+          "copyright": "Sebastian Scheiner/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/world/29xp-threats/29xp-threats-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Michael Ron David Kadar, seated, was convicted in Israel on Thursday of making threats against Jewish organizations in the United States.",
+          "copyright": "Sebastian Scheiner/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/world/29xp-threats/merlin_140440761_bf8a45e0-5669-4c8d-b934-708e0b037dfb-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Michael Ron David Kadar, seated, was convicted in Israel on Thursday of making threats against Jewish organizations in the United States.",
+          "copyright": "Sebastian Scheiner/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/world/29xp-threats/merlin_140440761_bf8a45e0-5669-4c8d-b934-708e0b037dfb-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Michael Ron David Kadar, seated, was convicted in Israel on Thursday of making threats against Jewish organizations in the United States.",
+          "copyright": "Sebastian Scheiner/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/world/29xp-threats/merlin_140440761_bf8a45e0-5669-4c8d-b934-708e0b037dfb-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Michael Ron David Kadar, seated, was convicted in Israel on Thursday of making threats against Jewish organizations in the United States.",
+          "copyright": "Sebastian Scheiner/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/2lI80Hj"
+    },
+    {
+      "section": "U.S.",
+      "subsection": "Politics",
+      "title": "Fighting Privilege: The Senate Finally Wants to Pay Its Interns",
+      "abstract": "In a bid to make Washington’s halls of power more diverse, the Senate is seeking to create a $5 million fund to compensate its interns, the first such organized congressional effort in two decades.",
+      "url": "https://www.nytimes.com/2018/06/28/us/politics/senate-paid-internships.html",
+      "byline": "By CATIE EDMONDSON",
+      "item_type": "Article",
+      "updated_date": "2018-06-28T16:11:02-04:00",
+      "created_date": "2018-06-28T16:11:02-04:00",
+      "published_date": "2018-06-28T16:11:02-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Internships",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Senate",
+        "House of Representatives"
+      ],
+      "per_facet": [
+        "Van Hollen, Christopher Jr",
+        "Harris, Kamala D",
+        "Barton, Joe L",
+        "McCollum, Betty",
+        "McConnell, Mitch"
+      ],
+      "geo_facet": [
+        "Washington (DC)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/us/politics/29dc-internpay/29dc-internpay-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Last year, just over half of Republican senators compensated their interns, while barely a third of their Democratic peers followed suit.",
+          "copyright": "Erin Schaff for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/us/politics/29dc-internpay/29dc-internpay-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Last year, just over half of Republican senators compensated their interns, while barely a third of their Democratic peers followed suit.",
+          "copyright": "Erin Schaff for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/us/politics/29dc-internpay/merlin_139137675_65d118ef-5838-48ca-907d-a0fd50fbef88-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Last year, just over half of Republican senators compensated their interns, while barely a third of their Democratic peers followed suit.",
+          "copyright": "Erin Schaff for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/us/politics/29dc-internpay/merlin_139137675_65d118ef-5838-48ca-907d-a0fd50fbef88-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Last year, just over half of Republican senators compensated their interns, while barely a third of their Democratic peers followed suit.",
+          "copyright": "Erin Schaff for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/us/politics/29dc-internpay/merlin_139137675_65d118ef-5838-48ca-907d-a0fd50fbef88-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Last year, just over half of Republican senators compensated their interns, while barely a third of their Democratic peers followed suit.",
+          "copyright": "Erin Schaff for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2IAtZJ6"
+    },
+    {
+      "section": "Business Day",
+      "subsection": "DealBook",
+      "title": "Amazon to Buy Online Pharmacy PillPack, Jumping Into the Drug Business",
+      "abstract": "The purchase of PillPack, an online pharmacy, is the latest sign of Amazon’s increasing interest in health care.",
+      "url": "https://www.nytimes.com/2018/06/28/business/dealbook/amazon-buying-pillpack-as-it-moves-into-pharmacies.html",
+      "byline": "By CLAIRE BALLENTINE and KATIE THOMAS",
+      "item_type": "Article",
+      "updated_date": "2018-06-28T19:18:30-04:00",
+      "created_date": "2018-06-28T10:13:19-04:00",
+      "published_date": "2018-06-28T10:13:19-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Drugs (Pharmaceuticals)",
+        "Mergers, Acquisitions and Divestitures",
+        "Drugstores"
+      ],
+      "org_facet": [
+        "Amazon.com Inc",
+        "PillPack"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/business/29amazonpills/merlin_140461779_5b0756ec-fbe6-4aa7-b5ec-727c7463a344-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Minh Uong/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/business/29amazonpills/merlin_140461779_5b0756ec-fbe6-4aa7-b5ec-727c7463a344-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Minh Uong/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/business/29amazonpills/merlin_140461779_5b0756ec-fbe6-4aa7-b5ec-727c7463a344-articleInline.jpg",
+          "format": "Normal",
+          "height": 121,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Minh Uong/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/business/29amazonpills/merlin_140461779_5b0756ec-fbe6-4aa7-b5ec-727c7463a344-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Minh Uong/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/business/29amazonpills/merlin_140461779_5b0756ec-fbe6-4aa7-b5ec-727c7463a344-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1307,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Minh Uong/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2N4HlRz"
+    },
+    {
+      "section": "Obituaries",
+      "subsection": "",
+      "title": "Daisy Kadibil, 95, Whose Australia Trek Inspired a Film, Dies",
+      "abstract": "Seized under an assimilation program, she and two other Aboriginal girls made their way home across hundreds of miles, a feat depicted in “Rabbit-Proof Fence.”",
+      "url": "https://www.nytimes.com/2018/06/27/obituaries/daisy-kadibil-95-whose-australia-trek-inspired-a-film-dies.html",
+      "byline": "By JACQUELINE WILLIAMS",
+      "item_type": "Article",
+      "updated_date": "2018-06-28T11:42:26-04:00",
+      "created_date": "2018-06-27T18:14:22-04:00",
+      "published_date": "2018-06-27T18:14:22-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "Indigenous Australians",
+        "Follow the Rabbit-Proof Fence (Book)",
+        "Rabbit-Proof Fence (Movie)",
+        "Movies",
+        "Books and Literature"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Kadibil, Daisy",
+        "Pilkington Garimara, Doris (1937-2014)"
+      ],
+      "geo_facet": [
+        "Australia"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/06/28/obituaries/28KADIBIL1/28KADIBIL1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Daisy Kadibil and a biographical note she wrote. After being taken from their parents under an Australian program to assimilate Indigenous people into the dominant society, she and her sister and a cousin walked hundreds of miles across rough terrain to get back home.",
+          "copyright": "Tobias Titz"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/28/obituaries/28KADIBIL1/28KADIBIL1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Daisy Kadibil and a biographical note she wrote. After being taken from their parents under an Australian program to assimilate Indigenous people into the dominant society, she and her sister and a cousin walked hundreds of miles across rough terrain to get back home.",
+          "copyright": "Tobias Titz"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/28/obituaries/28KADIBIL1/merlin_140365725_9ccfccd5-9e81-4864-b4c6-16be86f41997-articleInline.jpg",
+          "format": "Normal",
+          "height": 120,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Daisy Kadibil and a biographical note she wrote. After being taken from their parents under an Australian program to assimilate Indigenous people into the dominant society, she and her sister and a cousin walked hundreds of miles across rough terrain to get back home.",
+          "copyright": "Tobias Titz"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/28/obituaries/28KADIBIL1/28KADIBIL1-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Daisy Kadibil and a biographical note she wrote. After being taken from their parents under an Australian program to assimilate Indigenous people into the dominant society, she and her sister and a cousin walked hundreds of miles across rough terrain to get back home.",
+          "copyright": "Tobias Titz"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/28/obituaries/28KADIBIL1/merlin_140365725_9ccfccd5-9e81-4864-b4c6-16be86f41997-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1295,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Daisy Kadibil and a biographical note she wrote. After being taken from their parents under an Australian program to assimilate Indigenous people into the dominant society, she and her sister and a cousin walked hundreds of miles across rough terrain to get back home.",
+          "copyright": "Tobias Titz"
+        }
+      ],
+      "short_url": "https://nyti.ms/2N5H7cM"
+    },
+    {
+      "section": "World",
+      "subsection": "Europe",
+      "title": "Migration Divides Europe Union and Threatens to Stall the Bloc’s Business",
+      "abstract": "As the European Union meets to discuss migration, it must contend with the rise of populist, anti-immigrant parties that are testing the central values of the bloc.",
+      "url": "https://www.nytimes.com/2018/06/28/world/europe/germany-angela-merkel-migration-eu.html",
+      "byline": "By STEVEN ERLANGER and KATRIN BENNHOLD",
+      "item_type": "Article",
+      "updated_date": "2018-06-28T20:06:20-04:00",
+      "created_date": "2018-06-28T07:07:55-04:00",
+      "published_date": "2018-06-28T07:07:55-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Middle East and Africa Migrant Crisis",
+        "Immigration and Emigration",
+        "Politics and Government"
+      ],
+      "org_facet": [
+        "European Union",
+        "Christian Democratic Union (Germany)",
+        "Christian Social Union (Germany)"
+      ],
+      "per_facet": [
+        "Merkel, Angela",
+        "Seehofer, Horst"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/world/29Migrants/29Migrants-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Chancellor Angela Merkel of Germany and Alexander Gauland of the far-right party Alternative for Germany, right, at the Parliament in Berlin on Thursday. Representatives of his party heckled her during her speech.",
+          "copyright": "Clemens Bilan/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/world/29Migrants/29Migrants-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Chancellor Angela Merkel of Germany and Alexander Gauland of the far-right party Alternative for Germany, right, at the Parliament in Berlin on Thursday. Representatives of his party heckled her during her speech.",
+          "copyright": "Clemens Bilan/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/world/29Migrants/merlin_140411979_82c53bd9-4994-49df-9738-7c4ab6af77ce-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Chancellor Angela Merkel of Germany and Alexander Gauland of the far-right party Alternative for Germany, right, at the Parliament in Berlin on Thursday. Representatives of his party heckled her during her speech.",
+          "copyright": "Clemens Bilan/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/world/29Migrants/merlin_140411979_82c53bd9-4994-49df-9738-7c4ab6af77ce-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Chancellor Angela Merkel of Germany and Alexander Gauland of the far-right party Alternative for Germany, right, at the Parliament in Berlin on Thursday. Representatives of his party heckled her during her speech.",
+          "copyright": "Clemens Bilan/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/world/29Migrants/merlin_140411979_82c53bd9-4994-49df-9738-7c4ab6af77ce-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Chancellor Angela Merkel of Germany and Alexander Gauland of the far-right party Alternative for Germany, right, at the Parliament in Berlin on Thursday. Representatives of his party heckled her during her speech.",
+          "copyright": "Clemens Bilan/EPA, via Shutterstock"
+        }
+      ],
+      "short_url": "https://nyti.ms/2N2Qt94"
+    },
+    {
+      "section": "Travel",
+      "subsection": "",
+      "title": "18 Ways to Navigate Stress at the Airport",
+      "abstract": "Even before takeoff, the airport itself can be a stressful phase of travel. Here are strategies for dealing with anxieties and annoyances, large and small.",
+      "url": "https://www.nytimes.com/2018/06/27/travel/airport-stress-tips.html",
+      "byline": "By ELAINE GLUSAC",
+      "item_type": "Article",
+      "updated_date": "2018-06-27T14:53:27-04:00",
+      "created_date": "2018-06-27T05:00:11-04:00",
+      "published_date": "2018-06-27T05:00:11-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Airports",
+        "Anxiety and Stress",
+        "Travel and Vacations"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/07/01/travel/01airport-tips/merlin_137479857_2bb183ea-60ff-44c3-aa72-b9300ee2dfa7-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Passengers scanning the departure boards for canceled or delayed flights at Amsterdam's Schiphol Airport.",
+          "copyright": "Remko De Waal/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/07/01/travel/01airport-tips/merlin_137479857_2bb183ea-60ff-44c3-aa72-b9300ee2dfa7-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Passengers scanning the departure boards for canceled or delayed flights at Amsterdam's Schiphol Airport.",
+          "copyright": "Remko De Waal/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/07/01/travel/01airport-tips/merlin_137479857_2bb183ea-60ff-44c3-aa72-b9300ee2dfa7-articleInline.jpg",
+          "format": "Normal",
+          "height": 129,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Passengers scanning the departure boards for canceled or delayed flights at Amsterdam's Schiphol Airport.",
+          "copyright": "Remko De Waal/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/07/01/travel/01airport-tips/merlin_137479857_2bb183ea-60ff-44c3-aa72-b9300ee2dfa7-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Passengers scanning the departure boards for canceled or delayed flights at Amsterdam's Schiphol Airport.",
+          "copyright": "Remko De Waal/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/07/01/travel/01airport-tips/merlin_137479857_2bb183ea-60ff-44c3-aa72-b9300ee2dfa7-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1391,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Passengers scanning the departure boards for canceled or delayed flights at Amsterdam's Schiphol Airport.",
+          "copyright": "Remko De Waal/EPA, via Shutterstock"
+        }
+      ],
+      "short_url": "https://nyti.ms/2N4FBYb"
+    },
+    {
+      "section": "Smarter Living",
+      "subsection": "",
+      "title": "How to Clean Your Filthy, Disgusting Laptop",
+      "abstract": "Like any tool we use every day, our laptops accumulate dust, grime, oils from our skin and who knows what else. Yours is probably due for a cleaning, and here’s how to do it right.",
+      "url": "https://www.nytimes.com/2018/06/26/smarter-living/how-to-clean-your-filthy-disgusting-laptop.html",
+      "byline": "By WHITSON GORDON",
+      "item_type": "Article",
+      "updated_date": "2018-06-26T14:17:58-04:00",
+      "created_date": "2018-06-26T13:14:00-04:00",
+      "published_date": "2018-06-26T13:14:00-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Computers and the Internet",
+        "Laptop Computers"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/06/25/smarter-living/sl_dirtylaptop/sl_dirtylaptop-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Eden Weingart"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/25/smarter-living/sl_dirtylaptop/sl_dirtylaptop-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Eden Weingart"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/25/smarter-living/sl_dirtylaptop/sl_dirtylaptop-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Eden Weingart"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/25/smarter-living/sl_dirtylaptop/sl_dirtylaptop-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Eden Weingart"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/25/smarter-living/sl_dirtylaptop/sl_dirtylaptop-superJumbo-v2.gif",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Eden Weingart"
+        }
+      ],
+      "short_url": "https://nyti.ms/2N3xon4"
+    },
+    {
+      "section": "Travel",
+      "subsection": "",
+      "title": "The Tech You Need to Travel Better",
+      "abstract": "While no product can guarantee a seat upgrade or make your delayed flight arrive on time, a few smart investments can make your next trip more comfortable, more relaxing and less stressful.",
+      "url": "https://www.nytimes.com/2018/06/27/travel/tech-devices-luggage.html",
+      "byline": "By ALAN HENRY",
+      "item_type": "Article",
+      "updated_date": "2018-06-27T12:32:18-04:00",
+      "created_date": "2018-06-27T05:00:06-04:00",
+      "published_date": "2018-06-27T05:00:06-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Travel and Vacations",
+        "Luggage and Packing",
+        "Computers and the Internet"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/06/19/smarter-living/01traveltech-usb/01traveltech-usb-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A portable USB battery pack, like the Jackery Bolt, one of Wirecutter’s favorites, will keep your phone topped off until you can find an outlet.",
+          "copyright": "Michael Hession for Wirecutter"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/19/smarter-living/01traveltech-usb/01traveltech-usb-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A portable USB battery pack, like the Jackery Bolt, one of Wirecutter’s favorites, will keep your phone topped off until you can find an outlet.",
+          "copyright": "Michael Hession for Wirecutter"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/19/smarter-living/01traveltech-usb/01traveltech-usb-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A portable USB battery pack, like the Jackery Bolt, one of Wirecutter’s favorites, will keep your phone topped off until you can find an outlet.",
+          "copyright": "Michael Hession for Wirecutter"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/19/smarter-living/01traveltech-usb/01traveltech-usb-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A portable USB battery pack, like the Jackery Bolt, one of Wirecutter’s favorites, will keep your phone topped off until you can find an outlet.",
+          "copyright": "Michael Hession for Wirecutter"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/19/smarter-living/01traveltech-usb/01traveltech-usb-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A portable USB battery pack, like the Jackery Bolt, one of Wirecutter’s favorites, will keep your phone topped off until you can find an outlet.",
+          "copyright": "Michael Hession for Wirecutter"
+        }
+      ],
+      "short_url": "https://nyti.ms/2N4FBr9"
+    },
+    {
+      "section": "Smarter Living",
+      "subsection": "",
+      "title": "How to Plan the Perfect Trip With Your Significant Other This Summer",
+      "abstract": "Make sure your bae-cation is one to remember — without the logistical headaches.",
+      "url": "https://www.nytimes.com/2018/06/20/smarter-living/how-to-plan-the-perfect-trip-with-your-significant-other-this-summer.html",
+      "byline": "By ANNA GOLDFARB",
+      "item_type": "Article",
+      "updated_date": "2018-06-20T02:00:01-04:00",
+      "created_date": "2018-06-20T02:00:01-04:00",
+      "published_date": "2018-06-20T02:00:01-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Budget Travel",
+        "Travel and Vacations",
+        "Dating and Relationships"
+      ],
+      "org_facet": [
+        "United States Travel Assn"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/06/22/autossell/20sl_sigotravel/20sl_sigotravel-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Amrita Marino"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/22/autossell/20sl_sigotravel/20sl_sigotravel-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Amrita Marino"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/22/autossell/20sl_sigotravel/merlin_139874808_7ee1f65f-0fff-4e9d-9a18-1d87ef09e94d-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Amrita Marino"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/22/autossell/20sl_sigotravel/merlin_139874808_7ee1f65f-0fff-4e9d-9a18-1d87ef09e94d-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Amrita Marino"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/22/autossell/20sl_sigotravel/merlin_139874808_7ee1f65f-0fff-4e9d-9a18-1d87ef09e94d-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Amrita Marino"
+        }
+      ],
+      "short_url": "https://nyti.ms/2MGpjEJ"
+    },
+    {
+      "section": "T Magazine",
+      "subsection": "",
+      "title": "Edmund White’s Unerring Influence on Queer Writing",
+      "abstract": "On the release of the author’s book about the pleasures of reading, we asked his acolytes to reflect on the pleasures of reading White’s own work.",
+      "url": "https://www.nytimes.com/2018/06/26/t-magazine/edmund-white-queer-writing-book-influence.html",
+      "byline": "By MATT WEINSTOCK",
+      "item_type": "Article",
+      "updated_date": "2018-06-26T15:37:27-04:00",
+      "created_date": "2018-06-26T14:25:26-04:00",
+      "published_date": "2018-06-26T14:25:26-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Writing and Writers",
+        "Books and Literature",
+        "Homosexuality and Bisexuality"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "White, Edmund"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/06/26/t-magazine/art/edmund-white-slide-0IDO/edmund-white-slide-0IDO-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/26/t-magazine/art/edmund-white-slide-0IDO/edmund-white-slide-0IDO-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/26/t-magazine/art/edmund-white-slide-0IDO/edmund-white-slide-0IDO-articleInline.jpg",
+          "format": "Normal",
+          "height": 291,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/26/t-magazine/art/edmund-white-slide-0IDO/edmund-white-slide-0IDO-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/26/t-magazine/art/edmund-white-slide-0IDO/edmund-white-slide-0IDO-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 1339,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/2lzFojf"
+    },
+    {
+      "section": "Movies",
+      "subsection": "",
+      "title": "Review: ‘Sicario: Day of the Soldado’ Blends War Movie and Western",
+      "abstract": "This sequel to “Sicario,” starring Benicio Del Toro and Josh Brolin, is also a geopolitical action thriller and a samurai picture.",
+      "url": "https://www.nytimes.com/2018/06/26/movies/sicario-day-of-the-soldado-review-benicio-del-toro-josh-brolin.html",
+      "byline": "By A. O. SCOTT",
+      "item_type": "Article",
+      "updated_date": "2018-06-28T17:45:20-04:00",
+      "created_date": "2018-06-26T15:57:12-04:00",
+      "published_date": "2018-06-26T15:57:12-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Movies",
+        "Sicario: Day of the Soldado (Movie)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Sollima, Stefano (1966- )",
+        "Brolin, Josh",
+        "Del Toro, Benicio",
+        "Sheridan, Taylor (1970- )"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/arts/29sicario/29sicario-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Benicio Del Toro in &ldquo;Sicario: Day of the Soldado.&rdquo; In this world, his character is both predator and protector.",
+          "copyright": "Richard Foreman/Sony Pictures"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/arts/29sicario/29sicario-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Benicio Del Toro in &ldquo;Sicario: Day of the Soldado.&rdquo; In this world, his character is both predator and protector.",
+          "copyright": "Richard Foreman/Sony Pictures"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/arts/29sicario/merlin_140127849_a4f6db7d-c936-4e1a-87de-448405123368-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Benicio Del Toro in &ldquo;Sicario: Day of the Soldado.&rdquo; In this world, his character is both predator and protector.",
+          "copyright": "Richard Foreman/Sony Pictures"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/arts/29sicario/29sicario-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Benicio Del Toro in &ldquo;Sicario: Day of the Soldado.&rdquo; In this world, his character is both predator and protector.",
+          "copyright": "Richard Foreman/Sony Pictures"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/arts/29sicario/merlin_140127849_a4f6db7d-c936-4e1a-87de-448405123368-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1368,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Benicio Del Toro in &ldquo;Sicario: Day of the Soldado.&rdquo; In this world, his character is both predator and protector.",
+          "copyright": "Richard Foreman/Sony Pictures"
+        }
+      ],
+      "short_url": "https://nyti.ms/2N4qvlM"
+    },
+    {
+      "section": "Arts",
+      "subsection": "Television",
+      "title": "‘Sex, Cash and Death’: The Story Behind ‘A Very English Scandal’",
+      "abstract": "The three-part mini-series starring Hugh Grant is coming to Amazon. Here’s a primer on the lurid tale behind it and the sensational press of its time.",
+      "url": "https://www.nytimes.com/2018/06/28/arts/television/a-very-english-scandal-amazon-true-story-primer.html",
+      "byline": "By JASON BAILEY",
+      "item_type": "Article",
+      "updated_date": "2018-06-28T12:04:32-04:00",
+      "created_date": "2018-06-28T11:46:13-04:00",
+      "published_date": "2018-06-28T11:46:13-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Television",
+        "A Very English Scandal (TV Program)"
+      ],
+      "org_facet": [
+        "Amazon.com Inc"
+      ],
+      "per_facet": [
+        "Grant, Hugh",
+        "Thorpe, John Jeremy (1929-2014)",
+        "Scott, Norman (1940- )"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/06/27/arts/television/29scandal-primer-slide-YYUQ/29scandal-primer-slide-YYUQ-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jeremy Thorpe in 1967.",
+          "copyright": "Keystone, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/27/arts/television/29scandal-primer-slide-YYUQ/29scandal-primer-slide-YYUQ-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jeremy Thorpe in 1967.",
+          "copyright": "Keystone, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/27/arts/television/29scandal-primer-slide-YYUQ/29scandal-primer-slide-YYUQ-articleInline.jpg",
+          "format": "Normal",
+          "height": 137,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jeremy Thorpe in 1967.",
+          "copyright": "Keystone, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/27/arts/television/29scandal-primer-slide-YYUQ/29scandal-primer-slide-YYUQ-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jeremy Thorpe in 1967.",
+          "copyright": "Keystone, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/27/arts/television/29scandal-primer-slide-YYUQ/29scandal-primer-slide-YYUQ-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1488,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jeremy Thorpe in 1967.",
+          "copyright": "Keystone, via Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/2Kw7t5U"
+    },
+    {
+      "section": "Movies",
+      "subsection": "",
+      "title": "So Long to an Old (and, O.K., Shabby) Friend: Magno Screening Rooms",
+      "abstract": "At this site, now closing because of rising rent, New York critics and filmmakers met and bantered at tens of thousands of screenings since 1987.",
+      "url": "https://www.nytimes.com/2018/06/27/movies/so-long-to-an-old-and-ok-shabby-friend-magno-screening-rooms.html",
+      "byline": "By BEN KENIGSBERG",
+      "item_type": "Article",
+      "updated_date": "2018-06-28T12:16:27-04:00",
+      "created_date": "2018-06-27T14:58:35-04:00",
+      "published_date": "2018-06-27T14:58:35-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Movies"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/arts/29magno-close1/29magno-close1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Magno screening room in between showings earlier this week. It&rsquo;s closing because of rising rent.",
+          "copyright": "George Etheredge for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/arts/29magno-close1/29magno-close1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Magno screening room in between showings earlier this week. It&rsquo;s closing because of rising rent.",
+          "copyright": "George Etheredge for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/arts/29magno-close1/merlin_140309001_fb86fcf1-537f-421d-a646-b7dddff6b181-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Magno screening room in between showings earlier this week. It&rsquo;s closing because of rising rent.",
+          "copyright": "George Etheredge for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/arts/29magno-close1/29magno-close1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Magno screening room in between showings earlier this week. It&rsquo;s closing because of rising rent.",
+          "copyright": "George Etheredge for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/29/arts/29magno-close1/merlin_140309001_fb86fcf1-537f-421d-a646-b7dddff6b181-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1367,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Magno screening room in between showings earlier this week. It&rsquo;s closing because of rising rent.",
+          "copyright": "George Etheredge for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2IxWLds"
+    },
+    {
+      "section": "Food",
+      "subsection": "Wine, Beer & Cocktails",
+      "title": "The Aligoté Defense Rests",
+      "abstract": "A single bad experience, or reading boilerplate wine wisdom, can forever color a point of view. But before dismissing wines like aligoté, try them.",
+      "url": "https://www.nytimes.com/2018/06/28/dining/drinks/wine-school-aligote.html",
+      "byline": "By ERIC ASIMOV",
+      "item_type": "Article",
+      "updated_date": "2018-06-28T12:33:50-04:00",
+      "created_date": "2018-06-28T12:33:50-04:00",
+      "published_date": "2018-06-28T12:33:50-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Wines",
+        "Grapes",
+        "Aligote (Grape)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Burgundy (France)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/06/06/dining/06next/06next-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Patricia Wall/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/06/dining/06next/06next-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Patricia Wall/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/06/dining/06next/06next-articleInline.jpg",
+          "format": "Normal",
+          "height": 145,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Patricia Wall/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/06/dining/06next/06next-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Patricia Wall/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/06/dining/06next/06next-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1562,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Patricia Wall/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2Ixu5Bt"
+    },
+    {
+      "section": "Science",
+      "subsection": "",
+      "title": "This Coral Must Die",
+      "abstract": "In a lab in Philadelphia, scientists are studying what it takes to kill “super coral” to understand the impact of human activities on the mysterious reefs of the deep ocean.",
+      "url": "https://www.nytimes.com/2018/06/25/science/coral-reefs-oil-spills.html",
+      "byline": "By JOANNA KLEIN",
+      "item_type": "Article",
+      "updated_date": "2018-06-25T11:14:48-04:00",
+      "created_date": "2018-06-25T11:14:43-04:00",
+      "published_date": "2018-06-25T11:14:43-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Coral",
+        "Reefs",
+        "Oil Spills",
+        "Oil (Petroleum) and Gasoline",
+        "Fish and Other Marine Life",
+        "Gulf of Mexico Oil Spill (2010)",
+        "Oceans and Seas",
+        "Laboratories and Scientific Equipment",
+        "Greenhouse Gas Emissions",
+        "Global Warming",
+        "Offshore Drilling and Exploration",
+        "Research"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Cordes, Erik",
+        "Weinnig, Alexis"
+      ],
+      "geo_facet": [
+        "Gulf of Mexico"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/06/26/science/26SCI-CORAL-deepsea/26SCI-CORAL-deepsea-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A crab crawls along Lophelia corals at a depth of more than 1,600 feet in the Gulf of Mexico.",
+          "copyright": "ECOGIG/Oceaneering"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/26/science/26SCI-CORAL-deepsea/26SCI-CORAL-deepsea-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A crab crawls along Lophelia corals at a depth of more than 1,600 feet in the Gulf of Mexico.",
+          "copyright": "ECOGIG/Oceaneering"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/26/science/26SCI-CORAL-deepsea/26SCI-CORAL-deepsea-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A crab crawls along Lophelia corals at a depth of more than 1,600 feet in the Gulf of Mexico.",
+          "copyright": "ECOGIG/Oceaneering"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/26/science/26SCI-CORAL-deepsea/26SCI-CORAL-deepsea-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A crab crawls along Lophelia corals at a depth of more than 1,600 feet in the Gulf of Mexico.",
+          "copyright": "ECOGIG/Oceaneering"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/26/science/26SCI-CORAL-deepsea/26SCI-CORAL-deepsea-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A crab crawls along Lophelia corals at a depth of more than 1,600 feet in the Gulf of Mexico.",
+          "copyright": "ECOGIG/Oceaneering"
+        }
+      ],
+      "short_url": "https://nyti.ms/2IpEb72"
+    },
+    {
+      "section": "Science",
+      "subsection": "",
+      "title": "Bumblebees Thrive in the City but Struggle on the Farm",
+      "abstract": "Facing two unnatural environments, these important pollinators are finding better niches to exploit in urban areas.",
+      "url": "https://www.nytimes.com/2018/06/27/science/bumblebees-cities-urban.html",
+      "byline": "By JOANNA KLEIN",
+      "item_type": "Article",
+      "updated_date": "2018-06-27T14:33:36-04:00",
+      "created_date": "2018-06-27T13:31:49-04:00",
+      "published_date": "2018-06-27T13:31:49-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Bees",
+        "Agriculture and Farming",
+        "Urban Areas",
+        "Gardens and Gardening",
+        "Flowers and Plants"
+      ],
+      "org_facet": [
+        "Proceedings of the Royal Society B (Journal)"
+      ],
+      "per_facet": [
+        "Samuelson, Ash"
+      ],
+      "geo_facet": [
+        "London (England)",
+        "Great Britain"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/06/28/science/28TB-BUMBLEBEES1/28TB-BUMBLEBEES1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A colony of Bombus terrestris bumblebees, which fared better in an experiment when placed in London than in the English countryside.",
+          "copyright": "Ash Samuelson"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/28/science/28TB-BUMBLEBEES1/28TB-BUMBLEBEES1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A colony of Bombus terrestris bumblebees, which fared better in an experiment when placed in London than in the English countryside.",
+          "copyright": "Ash Samuelson"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/28/science/28TB-BUMBLEBEES1/28TB-BUMBLEBEES1-articleInline.jpg",
+          "format": "Normal",
+          "height": 126,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A colony of Bombus terrestris bumblebees, which fared better in an experiment when placed in London than in the English countryside.",
+          "copyright": "Ash Samuelson"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/28/science/28TB-BUMBLEBEES1/28TB-BUMBLEBEES1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A colony of Bombus terrestris bumblebees, which fared better in an experiment when placed in London than in the English countryside.",
+          "copyright": "Ash Samuelson"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/28/science/28TB-BUMBLEBEES1/merlin_140367411_d1441508-1239-408c-94ca-4c6f19cfa7f3-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 720,
+          "width": 960,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A colony of Bombus terrestris bumblebees, which fared better in an experiment when placed in London than in the English countryside.",
+          "copyright": "Ash Samuelson"
+        }
+      ],
+      "short_url": "https://nyti.ms/2lBVrNB"
+    },
+    {
+      "section": "Technology",
+      "subsection": "Personal Tech",
+      "title": "Now He Pulls Data Off the Web. In 1979, It Was Clips From the ‘Morgue.’",
+      "abstract": "Steve Lohr, a veteran New York Times reporter, reflects on how tech-free newsrooms used to be and how the progression to the internet has changed journalism.",
+      "url": "https://www.nytimes.com/2018/06/27/technology/personaltech/newsroom-technology-evolved-40-years.html",
+      "byline": "By STEVE LOHR",
+      "item_type": "Article",
+      "updated_date": "2018-06-27T14:24:01-04:00",
+      "created_date": "2018-06-27T11:39:44-04:00",
+      "published_date": "2018-06-27T11:39:44-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Computers and the Internet",
+        "News and News Media",
+        "Newspapers",
+        "Research",
+        "Podcasts",
+        "Typewriters and Typewriting"
+      ],
+      "org_facet": [
+        "New York Times"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/06/28/business/28TECHUSING-1/28TECHUSING-1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The technology reporter Steve Lohr hunting in the morgue, the archive of paper clippings stored in file cabinets.",
+          "copyright": "Idris Solomon for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/28/business/28TECHUSING-1/28TECHUSING-1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The technology reporter Steve Lohr hunting in the morgue, the archive of paper clippings stored in file cabinets.",
+          "copyright": "Idris Solomon for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/28/business/28TECHUSING-1/28TECHUSING-1-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The technology reporter Steve Lohr hunting in the morgue, the archive of paper clippings stored in file cabinets.",
+          "copyright": "Idris Solomon for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/28/business/28TECHUSING-1/28TECHUSING-1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The technology reporter Steve Lohr hunting in the morgue, the archive of paper clippings stored in file cabinets.",
+          "copyright": "Idris Solomon for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/06/28/business/28TECHUSING-1/28TECHUSING-1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1364,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The technology reporter Steve Lohr hunting in the morgue, the archive of paper clippings stored in file cabinets.",
+          "copyright": "Idris Solomon for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2IvXtIe"
+    },
+    {
+      "section": "Well",
+      "subsection": "",
+      "title": "Is It Getting Harder to Care for Poor Patients?",
+      "abstract": "We’ve been unable — or unwilling — to include social factors in how we support and pay doctors.",
+      "url": "https://www.nytimes.com/2018/06/26/well/is-it-getting-harder-to-care-for-poor-patients.html",
+      "byline": "By DHRUV KHULLAR, M.D.",
+      "item_type": "Article",
+      "updated_date": "2018-06-26T05:00:01-04:00",
+      "created_date": "2018-06-26T05:00:01-04:00",
+      "published_date": "2018-06-26T05:00:01-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Doctors",
+        "Hospitals",
+        "Medicare",
+        "Medicaid",
+        "Diabetes",
+        "Homeless Persons"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2016/05/05/science/wellmoney/wellmoney-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Stuart Bradford"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/05/05/science/wellmoney/wellmoney-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Stuart Bradford"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/05/05/science/wellmoney/wellmoney-articleInline.jpg",
+          "format": "Normal",
+          "height": 133,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Stuart Bradford"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/05/05/science/wellmoney/wellmoney-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Stuart Bradford"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/05/05/science/wellmoney/wellmoney-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 547,
+          "width": 780,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Stuart Bradford"
+        }
+      ],
+      "short_url": "https://nyti.ms/2MYV9gk"
+    }
+  ]
+}

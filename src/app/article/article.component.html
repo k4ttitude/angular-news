@@ -1,0 +1,16 @@
+<h2>Articles</h2>
+
+<ul class="articles">
+	<li *ngFor='let article of articles'>
+		<div class="article">
+			<a href="{{article.url}}">
+				<img *ngIf="article.multimedia[2]" src="{{article.multimedia[2].url}}">
+				<div class="content">
+					<span><b class="title">{{article.title}}</b></span>
+					<br/>
+					<span class="abstract">{{article.abstract}}</span>
+				</div>
+			</a>
+		</div>
+	</li>
+</ul>

@@ -1,0 +1,17 @@
+<div class="header">
+	<h1 id="title">Angular News</h1>
+	<div *ngIf="afAuth.user | async as user; else showLogin">
+	  <h2>Hello, {{ user.displayName }}!</h2>
+	  <button id="logout" (click)="logout()">Logout</button>
+	</div>
+
+	<ng-template #showLogin>
+	  <p>Please login.</p>
+	  <button id="login" (click)="login()">Login with Google</button>
+	</ng-template>
+
+</div>
+
+<div class="container">
+	<app-article></app-article>
+</div>
