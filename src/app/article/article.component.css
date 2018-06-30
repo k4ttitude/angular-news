@@ -1,7 +1,49 @@
-h2 {
+h2, h3 {
   color: #333333;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 200%;
+}
+
+.searchBar {
+  margin-top: 2em;
+  width: 50em;
+}
+
+select {
+  width: 8em;
+  height: 2em;
+  margin: .2em 0 0 .5em;
+  border-radius: 4px;
+  font-size: 120%;
+  background-color: #333333;
+  color: #EEE;
+}
+
+input[type=text] {
+  height: 2em;
+  width: 25em;
+  margin: .2em 0 0 .5em;
+  border-radius: 4px;
+  font-size: 120%;
+  background-color: #333333;
+  color: #EEE;
+  padding-left: 5px;
+}
+
+button#search {
+  height: 2.5em;
+  margin: 0 0 0 .5em;
+  padding: .5em;
+  border-radius: 4px;
+  font-size: 120%;
+  background-color: #008CBA;
+  color: #EEE;
+}
+
+button#search:hover {
+  cursor: pointer;
+  background-color: #EEE;
+  color: #008CBA;
 }
 
 .articles {

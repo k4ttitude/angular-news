@@ -1,4 +1,15 @@
-<h2>Articles</h2>
+<div class="searchBar">
+	<link rel="stylesheet" 
+		href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<select id="section" [(ngModel)]='selectedSection'
+		(change)='getSectionArticles()'>
+		<option *ngFor='let section of sections' [selected]='section === selectedSection'>
+			{{section}}
+		</option>
+	</select>
+	<input type="text" [(ngModel)]='query'>
+	<button id="search" (click)='search()'>Search <i class="fa fa-search"></i></button>
+</div>
 
 <ul class="articles">
 	<li *ngFor='let article of articles'>

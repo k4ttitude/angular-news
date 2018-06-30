@@ -1,6 +1,7 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 import { HttpModule } from '@angular/http';
+import { FormsModule } from '@angular/forms';
 
 import { AngularFireModule } from 'angularfire2';
 import { environment } from '../environments/environment';
@@ -17,6 +18,7 @@ import { ArticleComponent } from './article/article.component';
   imports: [
     BrowserModule,
     HttpModule,
+    FormsModule,
     AngularFireModule.initializeApp(environment.firebase, 'my-app-name'),
     AngularFireAuthModule
   ],
