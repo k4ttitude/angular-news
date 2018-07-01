@@ -12,7 +12,7 @@ import { Article } from './model/article';
 })
 export class ArticleService {
   
-  private api_key = '10fbf3376a6b4b63aae14502dd65fbee';
+  private api_key = '<your-api-key>';
   private api_section_url = 'https://api.nytimes.com/svc/topstories/v2/';
   private api_search_url = 'https://api.nytimes.com/svc/search/v2/';
 
