@@ -14,7 +14,7 @@ import { environment } from '../environments/environment';
 })
 export class ArticleService {
   
-  private api_key = environment.firebase.apiKey;
+  private api_key = environment.nytimes.apiKey;
   private api_section_url = 'https://api.nytimes.com/svc/topstories/v2/';
   private api_search_url = 'https://api.nytimes.com/svc/search/v2/';
 

@@ -11,10 +11,15 @@ import { auth } from 'firebase';
 export class AppComponent {
   constructor(public afAuth: AngularFireAuth) {
   }
-  login() {
+
+  loginGoogle() {
     this.afAuth.auth.signInWithPopup(new auth.GoogleAuthProvider());
   }
   logout() {
     this.afAuth.auth.signOut();
+  }
+
+  loginFacebook() {
+    this.afAuth.auth.signInWithPopup(new auth.FacebookAuthProvider());
   }
 }
