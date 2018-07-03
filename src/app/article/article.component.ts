@@ -43,10 +43,15 @@ export class ArticleComponent implements OnInit {
   }
 
   public search():void {
-    this.getSectionArticles();
+    //this.getSectionArticles();
     for (var i = 0; i < this.articles.length; i++) {
       let article = this.articles[i];
       let encodedQuery = this.query.replace(/\s+/g, '-');
+
+      if (this.query == null || this.query == '') {
+        this.getSectionArticles();
+        return;
+      }
 
       if (!article.title.includes(this.query) && !article.abstract.includes(this.query)
             && !article.url.includes(encodedQuery)) {
