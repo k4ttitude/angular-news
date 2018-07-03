@@ -16,9 +16,9 @@ export class ArticleComponent implements OnInit {
   query: string = '';
 
   sections: String[] = [ 'Home', 'Opinion', 'World', 'National', 'Politics', 'Upshot', 'Nyregion',
-                        'Business', 'Technology', 'Science', 'Health', 'Sports', 'Arts', 'Books',
-                        'Movies', 'Theater', 'Sundayreview', 'Fashion', 'Tmagazine', 'Food', 'Travel',
-                        'Magazine', 'Realestate', 'Automobiles', 'Obituaries', 'Insider' ];
+  'Business', 'Technology', 'Science', 'Health', 'Sports', 'Arts', 'Books',
+  'Movies', 'Theater', 'Sundayreview', 'Fashion', 'Tmagazine', 'Food', 'Travel',
+  'Magazine', 'Realestate', 'Automobiles', 'Obituaries', 'Insider' ];
   selectedSection: String;
   private format = 'json';
 
@@ -44,21 +44,21 @@ export class ArticleComponent implements OnInit {
 
   public search():void {
     //this.getSectionArticles();
+    if (this.query == null || this.query == '') {
+      this.getSectionArticles();
+      return;
+    }
+
     for (var i = 0; i < this.articles.length; i++) {
       let article = this.articles[i];
       let encodedQuery = this.query.replace(/\s+/g, '-');
 
-      if (this.query == null || this.query == '') {
-        this.getSectionArticles();
-        return;
-      }
-
       if (!article.title.includes(this.query) && !article.abstract.includes(this.query)
-            && !article.url.includes(encodedQuery)) {
+        && !article.url.includes(encodedQuery)) {
         this.articles.splice(i, 1); // delete current article from list
-        i--;
-      }
+      i--;
     }
   }
+}
 
 }

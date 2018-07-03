@@ -1,7 +1,7 @@
 export const environment = {
   production: true,
   firebase: {
-  	apiKey: 'AIzaSyDIrM4D-Fbyc59eV0T39eXSOsIOLDz0w4U',
+  	apiKey: '10fbf3376a6b4b63aae14502dd65fbee',
     authDomain: 'my-angular-hieudauto.firebaseapp.com',
     databaseURL: 'https://my-angular-hieudauto.firebaseio.com',
     projectId: 'my-angular-hieudauto',
